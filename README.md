@@ -9,4 +9,11 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have ran in a 5km marathon before
 
+### Skills
+
+- ⚛ React
+- 📱 React Native
+- 🐘 PHP
+- 💻 HTML, CSS, JS
+
 <img src = "https://github-readme-stats.vercel.app/api?username=king-awsomeness&&show_icons=true&title_color=ffffff&icon_color=bb2acg&text_color=daf7dc&bg_color=151515">
