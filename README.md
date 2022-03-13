@@ -1,4 +1,4 @@
-### Life is great, Hi I am Stephon Phillips 👋
+# Life is great, Hi I am Stephon Phillips 👋
 
 ## About Me:
 
