@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on Personal Projects
 - 🤔 I’m looking for help with Self Improvement
 - 💬 Ask me about My Goals
-- 📫 How to reach me: twitter - @StephonJPhillip , linkedin - https://www.linkedin.com/in/stephon-phillips/
+- 📫 How to reach me: [twitter - @StephonJPhillip](https://twitter.com/StephonJPhillip) , [linkedin - stephon-phillips](https://www.linkedin.com/in/stephon-phillips/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have ran in a 5km marathon before
+
+<img src = "https://github-readme-stats.vercel.app/api?username=king-awsomeness&&show_icons=true&title_color=ffffff&icon_color=bb2acg&text_color=daf7dc&bg_color=151515">
